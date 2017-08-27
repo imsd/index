@@ -2,6 +2,6 @@
 
 ## Weekly
 
-[Week 01](../../week-01)
+[Week 01](../../../week-01)
 
 ## Students
