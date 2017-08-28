@@ -1,9 +1,6 @@
 # MTEC 2120 – Interaction Media Systems Design
 
-[Syllabus](syllabus_2120_interaction.pdf)
-
-## Instructor
-+ Grayson Earle
++ [Syllabus](syllabus_2120_interaction.pdf)
 + gearle@citytech.cuny.edu
 + Office hours: V-203, Tuesday & Thursday 6-7:30pm, and by appointment
 
