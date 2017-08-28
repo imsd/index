@@ -1,6 +1,6 @@
 # MTEC 2120 – Interaction Media Systems Design
 
-[Syllabus]()
+[Syllabus](syllabus_2120_interaction.pdf)
 
 ## Instructor
 + Grayson Earle
