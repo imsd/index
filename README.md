@@ -15,3 +15,19 @@ After taking this course, students will be able to: Program and distribute graph
 + [Week 01](../../../week-01)
 
 ## Students
+
++  [Rashid Webber](https://github.com/imsd/Rashid-Webber)
++  [Deanna Denman](https://github.com/imsd/Deanna-Denman)
++  [R Char](https://github.com/imsd/R-Char)
++  [Anthony Truong](https://github.com/imsd/AnthonyTruong)
++  [zhongxu su](https://github.com/imsd/zhongxu-su)
++  [donovan valle](https://github.com/imsd/donovan-valle)
++  [Michael Lecolant](https://github.com/imsd/Michael-Lecolant)
++  [Maci Morris](https://github.com/imsd/Maci-Morris)
++  [Ryan Yip](https://github.com/imsd/RyanYip)
++  [david roman](https://github.com/imsd/david-roman)
++  [Jason Bollers](https://github.com/imsd/Jason-Bollers)
++  [jose calderin](https://github.com/imsd/jose-calderin)
++  [jm feng](https://github.com/imsd/jm-feng)
++  [raihan chandra](https://github.com/imsd/raihan-chandra)
++  [Test Student](https://github.com/imsd/Test-Student)
