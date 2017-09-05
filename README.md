@@ -13,9 +13,11 @@ After taking this course, students will be able to: Program and distribute graph
 ## Weekly
 
 + [Week 01](../../../week-01)
++ [Week 02](../../../week-02)
 
 ## Students
 
++  [Catherine Fernandez](...)
 +  [Rashid Webber](https://github.com/imsd/Rashid-Webber)
 +  [Deanna Denman](https://github.com/imsd/Deanna-Denman)
 +  [R Char](https://github.com/imsd/R-Char)
