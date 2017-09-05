@@ -10,6 +10,11 @@ This course is an overview of protocols used in the production of interactive me
 
 After taking this course, students will be able to: Program and distribute graphical, interactive applications; Recognize and utilize the appropriate terminology for interactive systems; Create and utilize open source code; Enlist physical devices to transmit wireless information to digital systems; Understand digital graphics theory in a production environment; Understand and leverage the video pipeline with Syphon & Unity.
 
+## Git Cheatsheet
+1. git add .
+2. git commit -m "some note to yourself"
+3. git push origin master
+
 ## Weekly
 
 + [Week 01](../../../week-01)
