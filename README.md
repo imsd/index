@@ -20,6 +20,7 @@ After taking this course, students will be able to: Program and distribute graph
 
 + [Week 01](../../../week-01)
 + [Week 02](../../../week-02)
++ [Week 03](../../../week-03)
 
 ## Students
 
