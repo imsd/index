@@ -30,6 +30,7 @@ After taking this course, students will be able to: Program and distribute graph
 
 ## Students
 
++  [Alexandria Grajales](https://github.com/imsd/Alexandria.Grajales)
 +  [Catherine Fernandez](https://github.com/imsd/Catherine-Fernandez)
 +  [Rashid Webber](https://github.com/imsd/Rashid-Webber)
 +  [Deanna Denman](https://github.com/imsd/Deanna-Denman)
