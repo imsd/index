@@ -5,6 +5,11 @@ using UnityEngine;
 public class GetWeather : MonoBehaviour {
 	// check here for weather stats
 	// https://www.metaweather.com/api/
+
+	public GameObject LightRain;
+	public GameObject LightCloud;
+	public GameObject HeavyCloud;
+
 	public string url = "https://www.metaweather.com/api/location/2459115/";
 	IEnumerator Start() {
 
@@ -29,5 +34,9 @@ public class GetWeather : MonoBehaviour {
 		// now we can do cool stuff like...
 		string WeatherType = weatherDetails[0]["weather_state_name"].str;
 		Debug.Log (WeatherType);
+
+		if (WeatherType == "Heavy Cloud") {
+			HeavyCloud.SetActive (true);
+		}
 	}
 }

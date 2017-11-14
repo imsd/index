@@ -64,6 +64,7 @@
      <Compile Include="Assets\TextGenerator\GenText.cs" />
      <Compile Include="Assets\TweetSearch.cs" />
      <Compile Include="Assets\Weather\GetWeather.cs" />
+     <Compile Include="Assets\Weather\Rain.cs" />
      <None Include="Assets\JSON\readme.txt" />
      <None Include="Assets\materials\3d Text Shader.shader" />
  <Reference Include="UnityEngine.UI">
