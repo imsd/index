@@ -3,6 +3,11 @@
 
 ## Artists & Projects
 
++ [Twitch Plays Pokemon](https://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon)
++ [Goldfish Plays Pokemon](https://www.youtube.com/watch?v=OlSbF2eeohU)
++ [Penis Wall](http://peiqi.su/art/portfolio-penis-wall.html)
++ [Tempescope](https://www.tempescope.com/)
+
 ## Review proposals for IoT projects
 
 ## Unity Weather Simulator

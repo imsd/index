@@ -138,7 +138,7 @@ MonoBehaviour:
   LightRain: {fileID: 729178786}
   LightCloud: {fileID: 1478567354}
   HeavyCloud: {fileID: 1289440197}
-  url: https://www.metaweather.com/api/location/28743736/
+  url: https://www.metaweather.com/api/location/1118370/
 --- !u!4 &31285010
 Transform:
   m_ObjectHideFlags: 0
