@@ -11,6 +11,7 @@ public class GetWeather : MonoBehaviour {
 	public GameObject HeavyCloud;
 
 	public string url = "https://www.metaweather.com/api/location/2459115/";
+
 	IEnumerator Start() {
 
 		// fetch the actual info, like you would from a browser
@@ -35,8 +36,14 @@ public class GetWeather : MonoBehaviour {
 		string WeatherType = weatherDetails[0]["weather_state_name"].str;
 		Debug.Log (WeatherType);
 
+		// depending on which type of weather,
+		// activate that game
 		if (WeatherType == "Heavy Cloud") {
 			HeavyCloud.SetActive (true);
+		}
+
+		if (WeatherType == "Light Cloud") {
+			LightCloud.SetActive (true);
 		}
 	}
 }
