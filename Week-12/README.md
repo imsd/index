@@ -9,6 +9,13 @@
 + [Tempescope](https://www.tempescope.com/)
 + [HowManyPeopleAreInSpaceRightNow.com](https://www.howmanypeopleareinspacerightnow.com/)
 
++ [eCloud Project](http://www.ecloudproject.com)
++ [Waves](https://vimeo.com/20500963)
++ [Birdhouse](https://www.kickstarter.com/projects/1768080598/birdhouse-an-internet-of-things-work-of-art)
++ [Animas](https://brianhouse.net/works/animas/)
++ [Packet Garden](https://julianoliver.com/output/packet-garden)
++ [Flight Patterns](https://vimeo.com/5368967)
+
 ## Review proposals for IoT projects
 
 ## Unity Weather Simulator
