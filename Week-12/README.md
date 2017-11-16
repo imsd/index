@@ -26,3 +26,13 @@
 
 + This can take many forms, but as a jumping off point I've created a kind of snow globe version of NYC that simply renders the weather conditions of the city. If the API returns "light rain" then the Unity scene renders light rain, and so on.
 + Do take this as an opportunity to run wild with the concept. There are likely APIs for every city in the world, APIs for outter space stats, and so on.
+
+## Homework due next time we meet
++ Finish Unity Weather Simulator
+	+ Place it in your repo and be ready to show it on Tuesday!
++ Write a proposal for a data-viz/streaming project for Unity named "dataviz.md", include:
+	+ A sketch of what it might look like
+	+ A general explanation of your idea
+	+ Break down what you will need to do technically to achieve this project
+	+ What stats you are using and why (if using stats)
+	+ What realtime data you are using and why (if using realtime data)
