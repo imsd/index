@@ -10,7 +10,7 @@ public class GetWeather : MonoBehaviour {
 	public GameObject LightCloud;
 	public GameObject HeavyCloud;
 
-	public string url = "https://www.metaweather.com/api/location/2459115/";
+	public string url = "https://www.metaweather.com/apiq/location/2459115/";
 
 	IEnumerator Start() {
 
