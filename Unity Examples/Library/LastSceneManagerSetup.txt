@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Animate Info as Shapes/animate-info-shapes.unity
-  isLoaded: 1
-  isActive: 1
