@@ -19,3 +19,5 @@
 	+ Bonus:
 	10. Now try with Rotation and Scale
 	11. Now try it with the camera
++ Skybox
+	+ [Supplemental YouTube tutorial](https://www.youtube.com/watch?v=QT-6u6NLaus)
